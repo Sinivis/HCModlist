@@ -1,0 +1,13 @@
+name = "HCModlist"
+author = "Sinivis"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "612bdae866d843a1bd98cef4494fa07a00a9d5031241fbefaaa3eb500aced5eb"
+
+[versions]
+minecraft = "1.20.1"
+neoforge = "47.1.106"
