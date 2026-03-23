@@ -1,0 +1,13 @@
+name = "Craftable Horse Armor"
+filename = "CraftableHorseArmor-1.20.1-0.1-Forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ecd295da4038451c37c62b5ca2b2b04c13c35c9b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4942593
+project-id = 948210
