@@ -201,6 +201,11 @@ hash = "3d678b89dc59dd838f059366a01d6d5c4afb7197b1a4f682826bd6d974a18706"
 metafile = true
 
 [[files]]
+file = "mods/krypton-reforged.pw.toml"
+hash = "ba2f214504381c53f588e1a52d8be657b47ed53a256b45d623cea2c724748afa"
+metafile = true
+
+[[files]]
 file = "mods/minetraps.pw.toml"
 hash = "22e9a4d74e2f7530de829ee23d0bb5eee61f51575754d8804fd5ffa6206a87e4"
 metafile = true
@@ -288,6 +293,11 @@ metafile = true
 [[files]]
 file = "mods/selene.pw.toml"
 hash = "8c1ddc34636bfb9ab2209a4d387900f03682a65ed5fcf8b5027ffdd9ba49880f"
+metafile = true
+
+[[files]]
+file = "mods/smooth-chunk-save.pw.toml"
+hash = "a061b4f98461fc38b4ff6495b5e3a9b8708e9d87333c2cbb29e6b265053a5abe"
 metafile = true
 
 [[files]]
