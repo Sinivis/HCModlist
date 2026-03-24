@@ -1,0 +1,13 @@
+name = "Zaynen's Craftable Nametag Mod"
+filename = "zaynens_craftable_nametag_mod_1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "32f293707ef167c86690c234dd2d34fd502e7760"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4874079
+project-id = 649918
