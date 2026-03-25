@@ -167,7 +167,7 @@ metafile = true
 
 [[files]]
 file = "mods/farsight.pw.toml"
-hash = "0b4c64ea1972059276a689110c83de55ca01f211320bb9f5c3bff360cf2c6f24"
+hash = "37d3e671ca1a778f75a68615f2a3aaa7b1c74c3becf616a72c15d0b1c1549105"
 metafile = true
 
 [[files]]
