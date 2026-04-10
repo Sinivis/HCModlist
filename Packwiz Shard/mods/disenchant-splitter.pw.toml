@@ -1,0 +1,13 @@
+name = "Disenchant Splitter"
+filename = "disenchant_splitter-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2a21379c2823652fb8bbfe9c734d51069221bd61"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7889462
+project-id = 1506519

@@ -146,6 +146,11 @@ hash = "75d1a752e4ddcbba61c1ccd3c705458ea06e1b53e5f2312b49564b6e10e70959"
 metafile = true
 
 [[files]]
+file = "mods/disenchant-splitter.pw.toml"
+hash = "875d153261c73c38fb6a0728cb419c4f974031810db1237dc995516c9963645b"
+metafile = true
+
+[[files]]
 file = "mods/dont-void-arrows.pw.toml"
 hash = "96297fb477555d0507b753dba3346e228dddf0e18bcef4a2512ac18555bd311e"
 metafile = true
