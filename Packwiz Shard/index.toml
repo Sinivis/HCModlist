@@ -151,6 +151,11 @@ hash = "96297fb477555d0507b753dba3346e228dddf0e18bcef4a2512ac18555bd311e"
 metafile = true
 
 [[files]]
+file = "mods/durability-tooltip.pw.toml"
+hash = "4a66eb10fbfd1a9cc225eb6c4eadfc03a7938e0427641d25802b7d32748f7a11"
+metafile = true
+
+[[files]]
 file = "mods/easy-disenchanting.pw.toml"
 hash = "7f148c30432d5ec77265c46a40895f180d11d9bd5f41b791a41e577752b0f10b"
 metafile = true
